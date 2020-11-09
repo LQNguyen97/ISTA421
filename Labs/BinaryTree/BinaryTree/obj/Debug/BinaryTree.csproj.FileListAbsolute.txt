@@ -1,0 +1,5 @@
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

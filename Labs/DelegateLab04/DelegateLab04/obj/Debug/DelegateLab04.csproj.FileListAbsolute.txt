@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\bin\Debug\DelegateLab04.exe.config
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\bin\Debug\DelegateLab04.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\bin\Debug\DelegateLab04.pdb
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\obj\Debug\DelegateLab04.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\obj\Debug\DelegateLab04.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\obj\Debug\DelegateLab04.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\DelegateLab04\DelegateLab04\obj\Debug\DelegateLab04.pdb

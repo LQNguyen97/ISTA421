@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\bin\Debug\Exercise15-linh.exe.config
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\bin\Debug\Exercise15-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\bin\Debug\Exercise15-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\obj\Debug\Exercise15-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\obj\Debug\Exercise15-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\obj\Debug\Exercise15-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise15-linh\Exercise15-linh\obj\Debug\Exercise15-linh.pdb

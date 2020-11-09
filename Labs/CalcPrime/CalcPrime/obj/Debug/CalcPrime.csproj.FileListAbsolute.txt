@@ -1,0 +1,7 @@
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\bin\Debug\CalcPrime.exe.config
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\bin\Debug\CalcPrime.exe
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\bin\Debug\CalcPrime.pdb
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\obj\Debug\CalcPrime.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\obj\Debug\CalcPrime.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\obj\Debug\CalcPrime.exe
+D:\quantico06\ISTA421\Labs\CalcPrime\CalcPrime\obj\Debug\CalcPrime.pdb

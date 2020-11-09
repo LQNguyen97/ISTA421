@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\bin\Debug\Quiz20-linh.exe.config
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\bin\Debug\Quiz20-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\bin\Debug\Quiz20-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\obj\Debug\Quiz20-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\obj\Debug\Quiz20-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\obj\Debug\Quiz20-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz20-linh\Quiz20-linh\obj\Debug\Quiz20-linh.pdb

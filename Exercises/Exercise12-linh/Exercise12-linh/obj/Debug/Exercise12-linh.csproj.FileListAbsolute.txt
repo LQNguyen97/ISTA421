@@ -1,0 +1,11 @@
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\obj\Debug\Exercise12-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\obj\Debug\Exercise12-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\bin\Debug\Exercise12-linh.exe.config
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\bin\Debug\Exercise12-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\bin\Debug\Exercise12-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\obj\Debug\Exercise12-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\obj\Debug\Exercise12-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\bin\Debug\itextsharp.dll
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\bin\Debug\itextsharp.xml
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise12-linh\Exercise12-linh\obj\Debug\Exercise12-linh.csproj.CopyComplete

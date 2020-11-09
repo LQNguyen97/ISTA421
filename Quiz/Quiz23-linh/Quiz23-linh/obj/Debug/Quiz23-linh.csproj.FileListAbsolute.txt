@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\bin\Debug\Quiz23-linh.exe.config
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\bin\Debug\Quiz23-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\bin\Debug\Quiz23-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\obj\Debug\Quiz23-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\obj\Debug\Quiz23-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\obj\Debug\Quiz23-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Quiz\Quiz23-linh\Quiz23-linh\obj\Debug\Quiz23-linh.pdb

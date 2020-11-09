@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb

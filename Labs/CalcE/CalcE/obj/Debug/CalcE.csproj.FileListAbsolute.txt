@@ -1,0 +1,7 @@
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\bin\Debug\CalcE.exe.config
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\bin\Debug\CalcE.exe
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\bin\Debug\CalcE.pdb
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\obj\Debug\CalcE.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\obj\Debug\CalcE.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\obj\Debug\CalcE.exe
+D:\quantico06\ISTA421\Labs\CalcE\CalcE\obj\Debug\CalcE.pdb

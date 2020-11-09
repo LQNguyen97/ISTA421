@@ -1,0 +1,14 @@
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\bin\Debug\Exercise13-linh.exe.config
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\bin\Debug\Exercise13-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\bin\Debug\Exercise13-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.pdb
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\bin\Debug\Exercise13-linh.exe.config
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\bin\Debug\Exercise13-linh.exe
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\bin\Debug\Exercise13-linh.pdb
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.exe
+D:\quantico06\ISTA421\Exercises\Exercise13-linh\Exercise13-linh\obj\Debug\Exercise13-linh.pdb

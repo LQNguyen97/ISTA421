@@ -1,0 +1,13 @@
+﻿@namespace SportsStore.Pages
+
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@using SportsStore.Models
+@using SportsStore.Infrastructure
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+Next, add a Razor View Start file named _ViewStart.cshtml to the Pages folder, with the content shown in Listing 8-15. Razor
+Pages have their own configuration files, and this one specifies that the Razor Pages in the SportsStore project will use a layout file
+named _CartLayout by default.
+Listing 8-15. The Contents of the _ViewStart.cshtml File in the SportsStore/Pages Folder
+@{
+    Layout = "_CartLayout";
+}

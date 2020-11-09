@@ -1,0 +1,7 @@
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\obj\Debug\array-labs.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\obj\Debug\array-labs.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\bin\Debug\array-labs.exe.config
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\bin\Debug\array-labs.exe
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\bin\Debug\array-labs.pdb
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\obj\Debug\array-labs.exe
+D:\quantico06\ISTA421\Labs\array-labs\array-labs\obj\Debug\array-labs.pdb

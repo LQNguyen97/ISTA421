@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe.config
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\bin\Debug\CalculatePI.pdb
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\obj\Debug\CalculatePI.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\obj\Debug\CalculatePI.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\obj\Debug\CalculatePI.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\CalculatePI\CalculatePI\obj\Debug\CalculatePI.pdb

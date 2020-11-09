@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\bin\Debug\LINQquizzes.exe.config
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\bin\Debug\LINQquizzes.exe
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\bin\Debug\LINQquizzes.pdb
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\obj\Debug\LINQquizzes.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\obj\Debug\LINQquizzes.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\obj\Debug\LINQquizzes.exe
+C:\Users\nguye\quantico06\ISTA421\Quiz\LINQquizzes\LINQquizzes\obj\Debug\LINQquizzes.pdb

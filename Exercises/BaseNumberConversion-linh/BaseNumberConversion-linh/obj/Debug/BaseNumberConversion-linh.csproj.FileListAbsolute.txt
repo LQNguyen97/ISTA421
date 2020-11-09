@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\bin\Debug\BaseNumberConversion-linh.exe.config
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\bin\Debug\BaseNumberConversion-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\bin\Debug\BaseNumberConversion-linh.pdb
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\obj\Debug\BaseNumberConversion-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\obj\Debug\BaseNumberConversion-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\obj\Debug\BaseNumberConversion-linh.exe
+C:\Users\nguye\quantico06\ISTA421\Exercises\BaseNumberConversion-linh\BaseNumberConversion-linh\obj\Debug\BaseNumberConversion-linh.pdb

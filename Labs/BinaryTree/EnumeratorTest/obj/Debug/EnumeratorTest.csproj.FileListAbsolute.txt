@@ -1,0 +1,10 @@
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.exe.config
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.pdb
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\bin\Debug\BinaryTree.dll
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\bin\Debug\BinaryTree.pdb
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csproj.CopyComplete
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.exe
+C:\Users\nguye\quantico06\ISTA421\Labs\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.pdb
